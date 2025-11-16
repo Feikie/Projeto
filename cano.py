@@ -1,3 +1,9 @@
+# Algorítmo feito por Grégori Grazziani
+# Matrícula: 23104088
+# Curso: Engenharia de Computação
+# Github: https://github.com/Feikie
+
+
 # --- Importação das bibliotecas necessárias ---
 import cv2  # A biblioteca principal do OpenCV, para processamento de imagem
 import numpy as np  # Biblioteca para manipulação de arrays (o OpenCV usa)
